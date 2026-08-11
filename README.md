@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>✨ Django Blog Project ✨</h1>
+  <h1> Django Blog Project </h1>
   <p>A full-stack blog application built to master backend web development.</p>
   
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
